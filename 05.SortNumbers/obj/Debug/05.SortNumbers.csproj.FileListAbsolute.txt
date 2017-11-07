@@ -1,0 +1,6 @@
+C:\Users\Icaka\source\repos\ListsLab\05.SortNumbers\bin\Debug\05.SortNumbers.exe.config
+C:\Users\Icaka\source\repos\ListsLab\05.SortNumbers\bin\Debug\05.SortNumbers.exe
+C:\Users\Icaka\source\repos\ListsLab\05.SortNumbers\bin\Debug\05.SortNumbers.pdb
+C:\Users\Icaka\source\repos\ListsLab\05.SortNumbers\obj\Debug\05.SortNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\ListsLab\05.SortNumbers\obj\Debug\05.SortNumbers.exe
+C:\Users\Icaka\source\repos\ListsLab\05.SortNumbers\obj\Debug\05.SortNumbers.pdb

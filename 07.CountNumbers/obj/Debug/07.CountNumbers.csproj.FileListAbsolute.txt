@@ -1,0 +1,7 @@
+C:\Users\Icaka\source\repos\ListsLab\07.CountNumbers\bin\Debug\07.CountNumbers.exe.config
+C:\Users\Icaka\source\repos\ListsLab\07.CountNumbers\bin\Debug\07.CountNumbers.exe
+C:\Users\Icaka\source\repos\ListsLab\07.CountNumbers\bin\Debug\07.CountNumbers.pdb
+C:\Users\Icaka\source\repos\ListsLab\07.CountNumbers\obj\Debug\07.CountNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Icaka\source\repos\ListsLab\07.CountNumbers\obj\Debug\07.CountNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\ListsLab\07.CountNumbers\obj\Debug\07.CountNumbers.exe
+C:\Users\Icaka\source\repos\ListsLab\07.CountNumbers\obj\Debug\07.CountNumbers.pdb

@@ -1,0 +1,7 @@
+C:\Users\Icaka\source\repos\ListsLab\03.SumAdjacentEqualNumbers\bin\Debug\03.SumAdjacentEqualNumbers.exe.config
+C:\Users\Icaka\source\repos\ListsLab\03.SumAdjacentEqualNumbers\bin\Debug\03.SumAdjacentEqualNumbers.exe
+C:\Users\Icaka\source\repos\ListsLab\03.SumAdjacentEqualNumbers\bin\Debug\03.SumAdjacentEqualNumbers.pdb
+C:\Users\Icaka\source\repos\ListsLab\03.SumAdjacentEqualNumbers\obj\Debug\03.SumAdjacentEqualNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Icaka\source\repos\ListsLab\03.SumAdjacentEqualNumbers\obj\Debug\03.SumAdjacentEqualNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\ListsLab\03.SumAdjacentEqualNumbers\obj\Debug\03.SumAdjacentEqualNumbers.exe
+C:\Users\Icaka\source\repos\ListsLab\03.SumAdjacentEqualNumbers\obj\Debug\03.SumAdjacentEqualNumbers.pdb

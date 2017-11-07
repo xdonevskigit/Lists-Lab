@@ -1,0 +1,7 @@
+C:\Users\Icaka\source\repos\ListsLab\02.AppendLists\bin\Debug\02.AppendLists.exe.config
+C:\Users\Icaka\source\repos\ListsLab\02.AppendLists\bin\Debug\02.AppendLists.exe
+C:\Users\Icaka\source\repos\ListsLab\02.AppendLists\bin\Debug\02.AppendLists.pdb
+C:\Users\Icaka\source\repos\ListsLab\02.AppendLists\obj\Debug\02.AppendLists.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\ListsLab\02.AppendLists\obj\Debug\02.AppendLists.exe
+C:\Users\Icaka\source\repos\ListsLab\02.AppendLists\obj\Debug\02.AppendLists.pdb
+C:\Users\Icaka\source\repos\ListsLab\02.AppendLists\obj\Debug\02.AppendLists.csprojResolveAssemblyReference.cache
